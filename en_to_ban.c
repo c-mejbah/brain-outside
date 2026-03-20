@@ -1,5 +1,8 @@
 instead = পরিবর্তে
+winding = ঘুর 
 
+devoted to = অনুগত , নিবেদিত 
+daunting = ভয়ঙ্কর 
 
 
 
